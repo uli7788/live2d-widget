@@ -257,12 +257,12 @@
   },
   "models": [{
     "name": "Potion-Maker/Pio",
-    "paths": ["https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/model/Potion-Maker/Pio/index.json"],
-    "message": "来自 Potion Maker 的 Pio 酱 ~"
+    "paths": ["https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/model/chino.pil/Pio/model.json"],
+    "message": "来自 chino的 Pio 酱 ~"
   }, {
     "name": "Potion-Maker/Tia",
-    "paths": ["https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/model/Potion-Maker/Tia/index.json"],
-    "message": "来自 Potion Maker 的 Tia 酱 ~"
+    "paths": ["https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/model/chino.pil/Tia/model.json"],
+    "message": "来自 chino 的 Pio 酱 ~"
   }, {
     "name": "HyperdimensionNeptunia",
     "paths": [
